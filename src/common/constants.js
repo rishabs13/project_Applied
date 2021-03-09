@@ -42,6 +42,18 @@ export const productDetailsData = [
         description: '',
         price: '50',
     },
+    {
+        title: 'Diesel Women Eyeglass',
+        imgUrl: 'https://image.ebdcdn.com/image/upload/c_fill,e_sharpen:70,f_auto,h_180,q_auto:good,w_360/v1/product/front/white/mt6567.jpg',
+        description: '',
+        price: '50',
+    },
+    {
+        title: 'Diesel Women Eyeglass',
+        imgUrl: 'https://image.ebdcdn.com/image/upload/c_fill,e_sharpen:70,f_auto,h_180,q_auto:good,w_360/v1/product/front/white/mt6567.jpg',
+        description: '',
+        price: '50',
+    },
 
 ]
 
